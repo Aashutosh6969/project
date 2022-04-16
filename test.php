@@ -72,9 +72,11 @@
           <input class="form-control me-2" type="search" placeholder="Search genres" aria-label="Search">
           <button class="btn btn-outline-success" type="submit">Search</button>
         </form>
-      
-        <a href="login.php" class="btn btn-outline-success" }>Login</a>
-       <a href="create.php" class="btn btn-outline-success">Sign up</a>
+
+        <div style="padding-left: 600px">
+        <a href="login.php" class="btn btn-outline-success" >Login</a>
+        </div>
+            <a href="create.php" class="btn btn-outline-success">Sign up</a>
         
       </div>
     </div>
